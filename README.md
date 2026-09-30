@@ -4,7 +4,6 @@ A scroll-controlled hero section where a sports car drives across the screen as 
 
 **[🔗 Live Demo](https://car-scroll-animation-cyan.vercel.app/)** · **[📂 Source Code](https://github.com/shubhamk-83/car-scroll-Animation)**
 
----
 
 ## ✨ Features
 
@@ -70,10 +69,10 @@ car-scroll-animation/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/shubham-83/car-scroll-animation.git
+git clone https://github.com/shubhamk-83/car-scroll-Animation.git
 
 # 2. Go into the project
-cd car-scroll-animation
+cd car-scroll-Animation
 
 # 3. Install dependencies
 npm install
@@ -114,7 +113,7 @@ npm run preview
 
 ## 👤 Author
 
-Shubham Kumar, B.Tech CSE student 
+**Shubham Kumar**, B.Tech CSE student | Full-Stack (MERN) Developer
 
 - 💼 [LinkedIn](https://linkedin.com/in/shubham-kumar-31354836b)
 - 🐙 [GitHub](https://github.com/shubhamk-83)
